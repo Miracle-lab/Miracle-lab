@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm EMO SIANI LOIC</h1>
-<h3 align="center">A passionate Data Scientist, Machine Learning, Artificial Intelligence, Business Analytics and Software Developer.</h3>
+<h1 align="center">Hi 👋, I'm Miracle Aniakor</h1>
+<h3 align="center">A passionate Data Scientist, Machine Learning, Artificial Intelligence, Business Analytics and AI-Developer.</h3>
 
 - 🔭 I’m currently working on **Machine Learning for production**
 
@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **machine learning, data science or business analytics projects**
 
-- 👨‍💻 All of my projects are available at [https://www.emoloic.site](https://www.emoloic.site)
+- 📫 How to reach me **maniakor@fc.ul.pt**
 
-- 📫 How to reach me **emoloic56@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/lo%C3%AFc-emo-siani-6757b6189/](https://www.linkedin.com/in/lo%C3%AFc-emo-siani-6757b6189/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/miracle-aniakor-259b6b165/](https://www.linkedin.com/in/miracle-aniakor-259b6b165/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
